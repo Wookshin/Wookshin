@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Wookshin
-- 🌱 I’m currently learning JS with FE overall part. 
+- 😁 I'm working as a Web Front-end Developer
+- 🌱 I'm interested in React and vanilla js these days.
+- 👀 Welcome both star and follow.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookshin&theme=tokyonight)](https://github.com/wookshin/github-readme-stats)
 
