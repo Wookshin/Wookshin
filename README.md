@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wookshin
-- 😁 I'm working as a Web Front-end Developer
+- 😁 I'm currently working as a Web Front-end Developer
 - 🌱 I'm interested in React and vanilla js these days.
 - 👀 Welcome both star and follow.
 
