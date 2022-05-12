@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Wookshin
-- 😁 I'm currently working as a Web Front-end Developer
-- 🌱 I'm interested in React and Vanilla js these days
 - 👀 Welcome both stars and following for communication
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookshin&theme=tokyonight)](https://github.com/wookshin/github-readme-stats)
